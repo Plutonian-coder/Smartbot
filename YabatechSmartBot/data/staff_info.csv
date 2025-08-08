@@ -1,0 +1,5 @@
+StaffID,FullName,Department,Role,Email
+STF/001,Dr. Amina Bello,Computer Science,HOD,"amina.bello@yabatech.edu.ng"
+STF/002,Mr. Tunde Williams,Student Affairs,Dean,"tunde.williams@yabatech.edu.ng"
+STF/003,Mrs. Funke Adekunle,Bursary,Accountant,"funke.adekunle@yabatech.edu.ng"
+STF/004,Prof. Emeka Okafor,Registry,Registrar,"emeka.okafor@yabatech.edu.ng"

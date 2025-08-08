@@ -1,0 +1,16 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+
+# Web Framework (choose one or both)
+streamlit
+fastapi
+uvicorn
+
+# NLP
+nltk
+spacy
+
+# For Sentiment Analysis
+vaderSentiment

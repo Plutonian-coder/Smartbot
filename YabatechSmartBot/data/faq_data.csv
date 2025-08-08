@@ -1,0 +1,6 @@
+Category,Intent,Response,Keywords
+Admission,"How do I apply for admission?","To apply for admission, visit the Yabatech portal at www.yabatech.edu.ng and follow the instructions for the Post-UTME application.","apply,admission,post-utme,form"
+Admission,"What are the admission requirements?","Admission requirements vary by program. Generally, you need at least 5 credits in relevant subjects in your O'Level exams. Visit the school website for specific details.","requirements,admission,olevel,credit"
+Course Form,"How do I fill my course form?","Log in to the student portal, navigate to the 'Course Registration' section, and select your courses for the semester.","course form,registration,courses"
+School Fees,"How can I pay my school fees?","School fees can be paid online through the student portal using a debit card or by generating a Remita invoice and paying at any commercial bank.","school fees,payment,pay,remita"
+School Fees,"What is the deadline for school fees payment?","The deadline for school fees payment is usually two weeks after the resumption of the academic session. Check the academic calendar for the exact date.","deadline,school fees,payment"
